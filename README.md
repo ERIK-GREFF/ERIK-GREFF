@@ -2,7 +2,7 @@
 ## I'm Erik Greff
 ## Connect with me:
 
-  <a href="https://www.linkedin.com/in/erik-greff-44137b19a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/erik-greff/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 ## GitHub Stats and Most Used Languages:
  
